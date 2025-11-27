@@ -67,3 +67,6 @@ func _on_mob_timer_timeout() -> void:
 
 	add_child(mob)
 
+
+
+
