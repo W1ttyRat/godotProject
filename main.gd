@@ -34,7 +34,6 @@ func new_game():
 
 	$Music.play()
 
-
 func _on_start_timer_timeout() -> void:
 	$MobTimer.start()
 	$ScoreTimer.start()
